@@ -8,7 +8,7 @@ namespace Thimbles
         {
             string choose, userInput;
             int selectedTimble, balance, rate, difference;
-            string buttonForBalance = "B";
+            string buttonForBalance = "E";
             string replay = "W";
 
             Console.Write("\n\t\t\t\tНАПЕРСТКИ!\n");
@@ -40,23 +40,23 @@ namespace Thimbles
                     Console.WriteLine("\n\t\tУгадали!\n");
                     Console.WriteLine("Вы выйграли: " + summ);
                     Console.WriteLine("\nНажмите клавиши:");
-                    const string continuation = "-Продолжить";
-                    const string balanceSheet = "\n-Узнать баланс";
-                    const string endTheGame = "\n-Завершить игру";
-                    string[] values = new string[] { continuation, balanceSheet, endTheGame };
-                    String userInput = String.Join(" ", values);
-                    Console.WriteLine(userInput);
+                    const string resume = "W-Продолжить";
+                    const string BalanceSheet = "\nE-Узнать баланс";
+                    const string endOfGame = "\nF-Завершить игру";
+                    string[] ConstantValues = new string[] { resume, BalanceSheet, endOfGame };
+                    String i = String.Join(" ", ConstantValues);
+                    Console.WriteLine(i);
                     userInput = Console.ReadLine();
                     Console.Clear();
 
-                   if (userInput == buttonForBalance)
+                    if (userInput == buttonForBalance)
                     {
                         Console.WriteLine("\nВаш баланс: " + balance);
-                        Console.WriteLine("\nНажмите клавиши:\n W-продолжить \n B-узнать баланс \n F-завершить игру");
+                        Console.WriteLine("\nНажмите клавиши:");
+                        Console.WriteLine(i);
                         userInput = Console.ReadLine();
                         Console.Clear();
                     }
-
                 }
                 else
                 {
@@ -65,25 +65,26 @@ namespace Thimbles
 
                     Console.WriteLine("\n\t\tНе угадали!\n");
                     Console.WriteLine("Вы проиграли: " + rate);
-                    const string P = "-Продолжить";
-                    const string B = "\n-Узнать баланс";
-                    const string F = "\n-Завершить игру";
-                    string[] values = new string[] { P, B, F };
-                    String i = String.Join(" ", values);
-
+                    Console.WriteLine("\nНажмите клавиши:");
+                    const string resume = "W-Продолжить";
+                    const string BalanceSheet = "\nE-Узнать баланс";
+                    const string endOfGame = "\nF-Завершить игру";
+                    string[] ConstantValues = new string[] { resume, BalanceSheet, endOfGame };
+                    String i = String.Join(" ", ConstantValues);
+                    Console.WriteLine(i);
                     userInput = Console.ReadLine();
                     Console.Clear();
 
                     if (userInput == buttonForBalance)
                     {
                         Console.WriteLine("\nВаш баланс: " + difference);
-                        Console.WriteLine("\nНажмите клавиши:\n W-продолжить \n B-узнать баланс \n F-завершить игру");
+                        Console.WriteLine("\nНажмите клавиши:");
+                        Console.WriteLine(i);
                         userInput = Console.ReadLine();
                         Console.Clear();
                     }
                 }
-            } while (.Equals(replay, StringComparison.OrdinalIgnoreCase));
+            } while (userInput.Equals(replay, StringComparison.OrdinalIgnoreCase));
         }
     }
 }
-
