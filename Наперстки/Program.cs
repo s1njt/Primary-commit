@@ -43,8 +43,8 @@ namespace Thimbles
                     const string resume = "W-Продолжить";
                     const string BalanceSheet = "\nE-Узнать баланс";
                     const string endOfGame = "\nF-Завершить игру";
-                    string[] ConstantValues = new string[] { resume, BalanceSheet, endOfGame };
-                    String i = String.Join(" ", ConstantValues);
+                    string[] ConstantButton = new string[] { resume, BalanceSheet, endOfGame };
+                    String i = String.Join(" ", ConstantButton);
                     Console.WriteLine(i);
                     userInput = Console.ReadLine();
                     Console.Clear();
@@ -69,8 +69,8 @@ namespace Thimbles
                     const string resume = "W-Продолжить";
                     const string BalanceSheet = "\nE-Узнать баланс";
                     const string endOfGame = "\nF-Завершить игру";
-                    string[] ConstantValues = new string[] { resume, BalanceSheet, endOfGame };
-                    String i = String.Join(" ", ConstantValues);
+                    string[] ConstantButton= new string[] { resume, BalanceSheet, endOfGame };
+                    String i = String.Join(" ", ConstantButton);
                     Console.WriteLine(i);
                     userInput = Console.ReadLine();
                     Console.Clear();
