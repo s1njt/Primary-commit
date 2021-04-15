@@ -1,0 +1,30 @@
+C:\Users\DNS\source\repos\наперстки\наперстки\obj\Debug\netcoreapp3.1\наперстки.csprojAssemblyReference.cache
+C:\Users\DNS\source\repos\наперстки\наперстки\obj\Debug\netcoreapp3.1\наперстки.AssemblyInfoInputs.cache
+C:\Users\DNS\source\repos\наперстки\наперстки\obj\Debug\netcoreapp3.1\наперстки.AssemblyInfo.cs
+C:\Users\DNS\source\repos\наперстки\наперстки\obj\Debug\netcoreapp3.1\наперстки.csproj.CoreCompileInputs.cache
+C:\Thimbles\Thimble Game\Наперстки\bin\Debug\netcoreapp3.1\Наперстки.exe
+C:\Thimbles\Thimble Game\Наперстки\bin\Debug\netcoreapp3.1\Наперстки.deps.json
+C:\Thimbles\Thimble Game\Наперстки\bin\Debug\netcoreapp3.1\Наперстки.runtimeconfig.json
+C:\Thimbles\Thimble Game\Наперстки\bin\Debug\netcoreapp3.1\Наперстки.runtimeconfig.dev.json
+C:\Thimbles\Thimble Game\Наперстки\bin\Debug\netcoreapp3.1\Наперстки.dll
+C:\Thimbles\Thimble Game\Наперстки\bin\Debug\netcoreapp3.1\Наперстки.pdb
+C:\Thimbles\Thimble Game\Наперстки\obj\Debug\netcoreapp3.1\Наперстки.csprojAssemblyReference.cache
+C:\Thimbles\Thimble Game\Наперстки\obj\Debug\netcoreapp3.1\Наперстки.AssemblyInfoInputs.cache
+C:\Thimbles\Thimble Game\Наперстки\obj\Debug\netcoreapp3.1\Наперстки.AssemblyInfo.cs
+C:\Thimbles\Thimble Game\Наперстки\obj\Debug\netcoreapp3.1\Наперстки.csproj.CoreCompileInputs.cache
+C:\Thimbles\Thimble Game\Наперстки\obj\Debug\netcoreapp3.1\Наперстки.dll
+C:\Thimbles\Thimble Game\Наперстки\obj\Debug\netcoreapp3.1\Наперстки.pdb
+C:\Thimbles\Thimble Game\Наперстки\obj\Debug\netcoreapp3.1\Наперстки.genruntimeconfig.cache
+C:\Thimbles\Наперстки\obj\Debug\netcoreapp3.1\Наперстки.csprojAssemblyReference.cache
+C:\Thimbles\Наперстки\obj\Debug\netcoreapp3.1\Наперстки.AssemblyInfoInputs.cache
+C:\Thimbles\Наперстки\obj\Debug\netcoreapp3.1\Наперстки.AssemblyInfo.cs
+C:\Thimbles\Наперстки\obj\Debug\netcoreapp3.1\Наперстки.csproj.CoreCompileInputs.cache
+C:\Thimbles\Наперстки\obj\Debug\netcoreapp3.1\Наперстки.dll
+C:\Thimbles\Наперстки\obj\Debug\netcoreapp3.1\Наперстки.pdb
+C:\Thimbles\Наперстки\bin\Debug\netcoreapp3.1\Наперстки.exe
+C:\Thimbles\Наперстки\bin\Debug\netcoreapp3.1\Наперстки.deps.json
+C:\Thimbles\Наперстки\bin\Debug\netcoreapp3.1\Наперстки.runtimeconfig.json
+C:\Thimbles\Наперстки\bin\Debug\netcoreapp3.1\Наперстки.runtimeconfig.dev.json
+C:\Thimbles\Наперстки\bin\Debug\netcoreapp3.1\Наперстки.dll
+C:\Thimbles\Наперстки\bin\Debug\netcoreapp3.1\Наперстки.pdb
+C:\Thimbles\Наперстки\obj\Debug\netcoreapp3.1\Наперстки.genruntimeconfig.cache
